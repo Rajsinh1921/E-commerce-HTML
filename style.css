@@ -911,9 +911,7 @@ margin-bottom: 20px;
 
 /* Cart-page */
 
-#cart {
-  overflow-x: auto;
-}
+
 
 #cart table {
   width: 100%;
